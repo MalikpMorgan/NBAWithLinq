@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NBAWithLinq", "NBAWithLinq.csproj", "{BCEF704F-3796-4B30-980D-E527635961D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCEF704F-3796-4B30-980D-E527635961D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCEF704F-3796-4B30-980D-E527635961D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCEF704F-3796-4B30-980D-E527635961D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCEF704F-3796-4B30-980D-E527635961D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

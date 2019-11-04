@@ -1,0 +1,10 @@
+/Users/malikmorgan/Downloads/Linq-master/LinqWithLambdaSolution/bin/Debug/netcoreapp2.1/LinqWithLambdaSolution.deps.json
+/Users/malikmorgan/Downloads/Linq-master/LinqWithLambdaSolution/bin/Debug/netcoreapp2.1/LinqWithLambdaSolution.runtimeconfig.json
+/Users/malikmorgan/Downloads/Linq-master/LinqWithLambdaSolution/bin/Debug/netcoreapp2.1/LinqWithLambdaSolution.runtimeconfig.dev.json
+/Users/malikmorgan/Downloads/Linq-master/LinqWithLambdaSolution/bin/Debug/netcoreapp2.1/LinqWithLambdaSolution.dll
+/Users/malikmorgan/Downloads/Linq-master/LinqWithLambdaSolution/bin/Debug/netcoreapp2.1/LinqWithLambdaSolution.pdb
+/Users/malikmorgan/Downloads/Linq-master/LinqWithLambdaSolution/obj/Debug/netcoreapp2.1/LinqWithLambdaSolution.csprojAssemblyReference.cache
+/Users/malikmorgan/Downloads/Linq-master/LinqWithLambdaSolution/obj/Debug/netcoreapp2.1/LinqWithLambdaSolution.AssemblyInfoInputs.cache
+/Users/malikmorgan/Downloads/Linq-master/LinqWithLambdaSolution/obj/Debug/netcoreapp2.1/LinqWithLambdaSolution.AssemblyInfo.cs
+/Users/malikmorgan/Downloads/Linq-master/LinqWithLambdaSolution/obj/Debug/netcoreapp2.1/LinqWithLambdaSolution.dll
+/Users/malikmorgan/Downloads/Linq-master/LinqWithLambdaSolution/obj/Debug/netcoreapp2.1/LinqWithLambdaSolution.pdb
